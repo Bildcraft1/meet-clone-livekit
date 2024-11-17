@@ -1,7 +1,6 @@
 'use client';
 
 import {
-  ControlBar,
   LiveKitRoom,
   RoomAudioRenderer,
   VideoConference,
