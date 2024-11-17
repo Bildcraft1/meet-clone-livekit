@@ -53,7 +53,6 @@ export default function Page() {
     >
       <VideoConference />
       <RoomAudioRenderer />
-      <ControlBar />
     </LiveKitRoom>
   );
 }
